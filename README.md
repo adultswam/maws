@@ -1,11 +1,8 @@
 # maws
-IRC bot written in AutoHotKey for the express purpose of aiding and facilitating television streaming capabilities.
 
-.
+**Triggers:**
 
-Triggers:
-
--!do [mute/unmute/hi]
+-!do *[mute / unmute / hi]*
 
 -!durn
 
@@ -17,11 +14,11 @@ Triggers:
 
 -!status
 
--!commands [on/off]
+-!commands *[on / off]*
 
--!clips [on/off]
+-!clips *[on / off]*
 
--!webms [on/off]
+-!webms *[on / off]*
 
 -!HAMMER
 
@@ -29,23 +26,31 @@ Triggers:
 
 -!list
 
--!goto [burgertv/pantsutv] \(will switch between american slingbox and japanese slingbox\)
+-!goto *[burgertv / pantsutv] \(will switch between american slingbox and japanese slingbox\)*
 
--!goto [channel name based on http://a.sugoi.space/channels.txt]
+-!goto *[channel name based on http://a.sugoi.space/channels.txt]*
 
--!play [url to videofile/youtube/wshh/adultswim/etc]
+-!play *[url to videofile / youtube / wshh / adultswim / etc]*
 
 -#sugoi
 
 -!wipe
 
--!whatson [channel name based on http://locatetv.com/listings]
+-!whatson *[channel name based on http://locatetv.com/listings]*
 
--.j [weeaboo term]
+-.j *[weeaboo term]*
 
 .
 
-Requires the following programs:
+**Setup:**
+
+-Download all scripts into the same directory
+-Create directory called /misc/
+-Modify maws.ahk fields for Server, Port, Channel, Nick, Pass, Email, and Massah according to your needs.
+
+.
+
+**Requires the following programs:**
 
 -AutoHotKey "legacy" version 1.0.48.05 - http://www.autohotkey.com/download/AutoHotkey104805_Install.exe
 
@@ -59,15 +64,7 @@ Requires the following programs:
 
 .
 
-Setup:
-
--Download all scripts into the same directory
--Create directory called /misc/
--Modify maws.ahk fields for Server, Port, Channel, Nick, Pass, Email, and Massah according to your needs.
-
-.
-
-Credits:
+**Credits:**
 
 Based on http://www.autohotkey.com/board/topic/33361-irc-bot-proof-of-concept/
 
