@@ -3,6 +3,7 @@ IRC bot written in AutoHotKey for the express purpose of aiding and facilitating
 
 Based on http://www.autohotkey.com/board/topic/33361-irc-bot-proof-of-concept/
 
+.
 
 Requires the following programs:
 
@@ -16,11 +17,14 @@ Requires the following programs:
 
 -Mplayer - https://www.mplayerhq.hu/design7/dload.html
 
+.
 
 Setup:
 
 -Download all scripts into the same directory
 -Create directory called /misc/
 -Modify maws.ahk fields for Server, Port, Channel, Nick, Pass, Email, and Massah according to your needs.
+
+.
 
 ... and that's pretty much it. Jan? Wayne?
