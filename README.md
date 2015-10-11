@@ -39,7 +39,7 @@ Triggers:
 
 -!wipe
 
--!whatson [channel name based on http://locatetv.com]
+-!whatson [channel name based on http://locatetv.com/listings]
 
 -.j [weeaboo term]
 
