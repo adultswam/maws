@@ -564,7 +564,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
 		 WinWait, Form1, 
 		 IfWinNotActive, Form1, , WinActivate, Form1, 
 		 WinWaitActive, Form1, 
@@ -582,7 +582,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
 		 WinWait, Form1, 
 		 IfWinNotActive, Form1, , WinActivate, Form1, 
 		 WinWaitActive, Form1, 
@@ -600,7 +600,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -618,7 +618,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -636,7 +636,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -654,7 +654,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -672,7 +672,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -690,7 +690,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -708,7 +708,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -726,7 +726,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -744,7 +744,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -762,7 +762,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -780,7 +780,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -798,7 +798,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -816,7 +816,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -834,7 +834,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -852,7 +852,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -870,7 +870,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -888,7 +888,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -906,7 +906,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -924,7 +924,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -942,7 +942,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -960,7 +960,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -978,7 +978,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -996,7 +996,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1014,7 +1014,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1032,7 +1032,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1050,7 +1050,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1068,7 +1068,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1086,7 +1086,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1104,7 +1104,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1122,7 +1122,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1140,7 +1140,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1158,7 +1158,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1176,7 +1176,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1194,7 +1194,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1212,7 +1212,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1230,7 +1230,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1248,7 +1248,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1266,7 +1266,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1284,7 +1284,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1302,7 +1302,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1320,7 +1320,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1338,7 +1338,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1356,7 +1356,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1374,7 +1374,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1392,7 +1392,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1410,7 +1410,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1428,7 +1428,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1446,7 +1446,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1464,7 +1464,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1482,7 +1482,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1500,7 +1500,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1518,7 +1518,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1536,7 +1536,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1554,7 +1554,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1572,7 +1572,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1590,7 +1590,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1608,7 +1608,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1626,7 +1626,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1644,7 +1644,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1662,7 +1662,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1680,7 +1680,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1698,7 +1698,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1716,7 +1716,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1734,7 +1734,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1752,7 +1752,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1770,7 +1770,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1788,7 +1788,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1806,7 +1806,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1824,7 +1824,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1842,7 +1842,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1860,7 +1860,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1878,7 +1878,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1896,7 +1896,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1914,7 +1914,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1932,7 +1932,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1950,7 +1950,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1968,7 +1968,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -1986,7 +1986,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2004,7 +2004,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2022,7 +2022,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2040,7 +2040,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2058,7 +2058,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2076,7 +2076,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2094,7 +2094,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2112,7 +2112,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2130,7 +2130,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2148,7 +2148,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2166,7 +2166,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2184,7 +2184,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2202,7 +2202,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2220,7 +2220,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2238,7 +2238,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2256,7 +2256,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2274,7 +2274,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2292,7 +2292,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2310,7 +2310,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2328,7 +2328,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2346,7 +2346,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2364,7 +2364,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2382,7 +2382,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2400,7 +2400,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2418,7 +2418,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2436,7 +2436,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2454,7 +2454,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2472,7 +2472,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2490,7 +2490,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2508,7 +2508,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2526,7 +2526,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2544,7 +2544,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2562,7 +2562,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2580,7 +2580,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2598,7 +2598,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2616,7 +2616,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2634,7 +2634,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2652,7 +2652,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2670,7 +2670,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2688,7 +2688,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2706,7 +2706,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2724,7 +2724,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2742,7 +2742,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2760,7 +2760,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2778,7 +2778,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2796,7 +2796,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2814,7 +2814,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2832,7 +2832,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2850,7 +2850,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2868,7 +2868,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2886,7 +2886,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2904,7 +2904,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2922,7 +2922,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2940,7 +2940,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2958,7 +2958,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2976,7 +2976,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -2994,7 +2994,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3012,7 +3012,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3030,7 +3030,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3048,7 +3048,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3066,7 +3066,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3084,7 +3084,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3102,7 +3102,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3120,7 +3120,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3138,7 +3138,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3156,7 +3156,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3174,7 +3174,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3192,7 +3192,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3210,7 +3210,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3228,7 +3228,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3246,7 +3246,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3264,7 +3264,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3282,7 +3282,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3300,7 +3300,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3318,7 +3318,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3336,7 +3336,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3354,7 +3354,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3372,7 +3372,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3390,7 +3390,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3408,7 +3408,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3426,7 +3426,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3444,7 +3444,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3462,7 +3462,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3480,7 +3480,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3498,7 +3498,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3516,7 +3516,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3534,7 +3534,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3552,7 +3552,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3570,7 +3570,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3588,7 +3588,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3606,7 +3606,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3624,7 +3624,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3642,7 +3642,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3660,7 +3660,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3678,7 +3678,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3696,7 +3696,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3714,7 +3714,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3732,7 +3732,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3750,7 +3750,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3768,7 +3768,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3786,7 +3786,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3804,7 +3804,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3822,7 +3822,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3840,7 +3840,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3858,7 +3858,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3876,7 +3876,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3894,7 +3894,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3912,7 +3912,7 @@ DataProcess(Socket, Data)
          FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 		 If (ChanLocale = "USA")
 		 {
-		 WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+		 WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
                  WinWait, Form1,
                  IfWinNotActive, Form1, , WinActivate, Form1,
                  WinWaitActive, Form1,
@@ -3931,7 +3931,7 @@ DataProcess(Socket, Data)
 		 {
 			FileRead, ChanLocale, %A_WorkingDir%\misc\chanlocale.txt
 			If (ChanLocale = "JAP") {
-			WS2_SendData(Socket, "NOTICE " . Nick . " :Station entry activated.`n")
+			WS2_SendData(Socket, "NOTICE " . Name . " :Station entry activated.`n")
 			WinActivate, Form1
 			Send, %Chnum%{ENTER}
 			Return
