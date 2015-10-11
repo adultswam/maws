@@ -5,9 +5,13 @@ Based on http://www.autohotkey.com/board/topic/33361-irc-bot-proof-of-concept/
 
 Requires the following programs:
 -AutoHotKey "legacy" version 1.0.48.05 - http://www.autohotkey.com/download/AutoHotkey104805_Install.exe
+
 -NirCMD - http://www.nirsoft.net/utils/nircmd-x64.zip
+
 -MPV - http://mpv.srsfckn.biz/mpv-x86_64-20150923.7z
+
 -VLC anything above 2.0.1 - http://get.videolan.org/vlc/2.2.1/win32/vlc-2.2.1-win32.exe
+
 -Mplayer - https://www.mplayerhq.hu/design7/dload.html
 
 Setup:
