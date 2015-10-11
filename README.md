@@ -1,7 +1,45 @@
 # maws
 IRC bot written in AutoHotKey for the express purpose of aiding and facilitating television streaming capabilities.
 
-Based on http://www.autohotkey.com/board/topic/33361-irc-bot-proof-of-concept/
+.
+
+Triggers:
+
+-!do [mute/unmute/hi]
+
+-!durn
+
+-!swag
+
+-!hype
+
+-*bot* ignore *nigga*
+
+-!status
+
+-!commands [on/off]
+
+-!clips [on/off]
+
+-!webms [on/off]
+
+-!HAMMER
+
+-!steaminfo
+
+-!list
+
+-!goto [channel name based on http://a.sugoi.space/channels.txt]
+
+-!play [url to videofile/youtube/wshh/adultswim/etc]
+
+-#sugoi
+
+-!wipe
+
+-!whatson [channel name based on http://locatetv.com]
+
+-.j [weeaboo term]
 
 .
 
@@ -24,6 +62,12 @@ Setup:
 -Download all scripts into the same directory
 -Create directory called /misc/
 -Modify maws.ahk fields for Server, Port, Channel, Nick, Pass, Email, and Massah according to your needs.
+
+.
+
+Credits:
+
+Based on http://www.autohotkey.com/board/topic/33361-irc-bot-proof-of-concept/
 
 .
 
