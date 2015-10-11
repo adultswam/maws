@@ -29,7 +29,7 @@ Triggers:
 
 -!list
 
--!goto [burgertv/pantsutv] (will switch between american slingbox and japanese slingbox)
+-!goto [burgertv/pantsutv] \(will switch between american slingbox and japanese slingbox\)
 
 -!goto [channel name based on http://a.sugoi.space/channels.txt]
 
