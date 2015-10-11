@@ -45,7 +45,9 @@
 **Setup:**
 
 -Download all scripts into the same directory
+
 -Create directory called /misc/
+
 -Modify maws.ahk fields for Server, Port, Channel, Nick, Pass, Email, and Massah according to your needs.
 
 .
