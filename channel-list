@@ -1,377 +1,377 @@
 ~~~~~~~~~~~~~~~AMERICAN CHANNELS~~~~~~~~~~~~~~~
 (Formal Name)                     (trigger name)
-CBS                                cbs
-MeTV                               metv
-NBC                                nbc
-FOX                                fox
-RNN                                rnn
-ABC                                abc
-MyNetwork                          mynet
-WLNY                               wlny
-CW                                 cw
-Telemundo                          telemundo
-PBS                                pbs
-MundoMax                           mundomax
-UniMas                             unimas
-WMBC                               wmbc
-WZME                               wzme
-FiOS                               fios
-Cozi TV                            cozi
-NHK World                          nhkworld
-Heroes & Icons                     hero
-Local Access 2                     local2
-Local Access 3                     local3
-Local Access 4                     local4
-Local Access 5                     local5
-Local Access 6                     local6
-Local Access 7                     local7
-Local Access 8                     local8
-Local Access 9                     local9
-WLIW                               wliw
-WNJN                               wnjn
-NYC Life                           nyclife
-WNYJ                               wnyj
-ION                                ion
-Univision                          univision
-USA                                usa
-TNT                                tnt
-TBS                                tbs
-FX                                 fx
-Paramount                          paramount
-Entertainment Studios TV           etstv
-Universal                          universal
-WGN                                wgn
-AXS                                axs
-ESPN                               espn
-ESPN Goal Line                     espngoal
-ESPNews                            espnews
-ESPNU                              espnu
-ESPN2                              espn2
-ESPN SEC                           espnsec
-YES                                yes
-SNY                                sny
-MSG                                msg
-MSG2                               msg2
-MSGPLUS                            msgplus
-MSGPLUS2                           msgplus2
-Fox Sports 1                       foxsports1
-Fox Sports 2                       foxsports2
-Big Ten                            bigten
-MLB                                mlb
-NHL                                nhl
-NFL                                nfl
-NBA                                nba
-NBC Sports                         nbcsports
-Tennis                             tennis
-Golf                               golf
-CBS Sports                         cbssports
-BeIN                               bein
-One World                          oneworld
-NESN                               nesn
-Cars TV                            cars
-CNN                                cnn
-CNN Headline News                  headlinenews
-CNBC                               cnbc
-MSNBC                              msnbc
-Bloomberg TV                       bloomberg
-CNN International                  cnnint
-CNBC World                         cnbcworld
-BBC World                          bbcworld
-Fusion                             fusion
-CSPAN                              cspan
-CSPAN2                             cspan2
-CSPAN3                             cspan3
-NewsMax                            newsmax
-One America News                   oan
-Fox Business Channel               foxbiz
-Fox News Channel                   foxnews
-The Weather Channel                weather
-Discovery                          discovery
-National Geographic                natgeo
-Science                            science
-Investigation Discovery            investigation
-American Heroes Channel            murika
-Military History                   military
-Viceland                           viceland
-History Channel                    history
-FYI                                fyi
-Animal Planet                      animal
-Velocity                           velocity
-National Geographic Wild           natgeowild
-Pets TV                            pets
-Smithsonian Channel                smithsonian
-TLC                                tlc
-Lifetime                           lifetime
-Lifetime Movie Network             lmn
-Lifetime Real Women                lrw
-Oxygen                             oxygen
-Oprah Winfrey Network              own
-WE tv                              wetv
-QVC                                qvc
-Home Shopping Network              hsn
-Jewelry TV                         jewelry
-QVC +                              qvcplus
-Home Shopping Network 2            hsn2
-Rocks TV                           rocks
-Gem Shopping Network               gem
-evine Live                         evine
-WOW Direct Response                wow
-Liquidation Channel                liquid
-Esquire TV                         esquire
-Discovery Life                     discoverylife
-Z Living                           zliving
-Cooking TV                         cooking
-Food Network                       food
-HGTV                               hgtv
-DIY                                diy
-Destination America                destination
-Wealth                             wealth
-Travel Channel                     travel
-Xtra Network                       xtra
-My Destination                     mydest
-Recipe TV                          recipe
-F179                               f179
-SyFy                               syfy
-A&E                                ae
-Crime & Investigation Network      crime
-truTV                              trutv
-GSN TV                             gsn
-Bravo                              bravo
-Justice Central                    justice
-Logo                               logo
-Ovation                            ovation
-BBC America                        bbcamerica
-Comedy Central                     comedy
-FXX                                fxx
-Reelz HD                           reelz
-Chiller                            chiller
-POP TV                             pop
-Comedy TV                          comedytv
-E!                                 e
-Freeform                           freeform
-MTV                                mtv
-MTV2                               mtv2
-MTVU                               mtvu
-BET Jams                           betjams
-MTV Hits                           mtvhits
-MTV Live                           mtvlive
-Fuse                               fuse
-VH1                                vh1
-MTV Classic                        mtvclassic
-VH1 Soul                           vh1soul
-Centric                            centric
-CMT                                cmt
-CMT Pure Country                   cmtpure
-Great American Country             gac
-Gospel                             gospel
-Revolt                             revolt
-MNet                               mnet
-Turner Classic Movies              tcm
-AMC                                amc
-Fox Movie Channel                  foxmovie
-Reelz                              reelz
-IFC                                ifc
-Sundance                           sundance
-Cinemoi                            cinemoi
-Sony Movie Channel                 sonymovie
-Up TV                              up
-Hallmark Movie Channel             hallmarkmovie
-Hallmark TV                        hallmark
-TV Land                            tvland
-MGM                                mgm
-Family Entertainment               fetv
-The Cowboy Channel                 cowboy
-HDNet                              hdnet
-Nickelodeon                        nick
-Nickelodeon Pacific                nick2
-NickToons                          nicktoons
-Teen Nick                          teennick
-Nick Jr.                           nickjr
-Cartoon Network                    cn
-Boomerang                          boomerang
-BET                                bet
-TVone                              tvone
-Disney Channel                     disney
-Disney XD                          disneyxd
-Disney Jr.                         disneyjr
-Discovery Family                   discoveryfamily
-Sprout                             sprout
-Aspire                             aspire
-MTV Tr3s                           mtv3
-Galavision                         gala
-Universo                           universo
-FM TV                              fm
-CCTV                               cctv
-HITN TV                            hitn
-SINO TV                            sino
-EWTN TV                            ewtn
-INSP TV                            insp
-Church Channel                     church
-BYU TV                             byutv
-3 Angels Broadcasting Network      3angels
-The Word Network                   word
-Smile of a Child Network           child
-Trinity Broadcasting Network       tbn
-Telecare                           telecare
-SonLife Network                    sonlife
-ESPN Classic                       espnclassic
-Fox Deportes                       foxdeporte
-Gol TV                             goltv
-TV Games Network                   tvg
-TV Games Network 2                 tvg2
-Longhorn Network                   longhorn
-Daystar TV                         daystar
-UplifTV                            uplift
-Universal Sports                   universalsports
-Willow Cricket                     cricket
-MavTV                              mavtv
-World Fishing Network              fishing
-Starz                              starz
-Starz Edge                         starzedge
-Starz Kids                         starzkids
-Starz Comedy                       starzcomedy
-Encore                             encore
-Encore Classic                     encoreclassic
-Encore Suspense                    encoresuspense
-Encore Black                       encoreblack
-Showtime                           showtime
-Showtime Pacific                   showtimewest
-Showcase                           showcase
-Showcase Pacific                   showcasewest
-Showtime2                          showtime2
-Showtime2 Pacific                  showtime2west
-Showtime Extreme                   showextreme
-Showtime Extreme Pacific           showextremewest
-The Movie Channel                  tmc
-The Movie Channel Extra            tmcextra
-Epix                               epix
-Epix 2                             epix2
-HBO                                hbo
-HBO Pacific                        hbowest
-HBO2                               hbo2
-HBO2 Pacific                       hbo2west
-HBO Signature                      hbosig
-HBO Signature Pacific              hbosigwest
-HBO Family                         hbofamily
-HBO Family Pacific                 hbofamilywest
-HBO Comedy                         hbocomedy
-HBO Comedy Pacific                 hbocomedywest
-HBO Zone                           hbozone
-HBO Zone Pacific                   hbozonewest
-HBO Latino                         hbolatino
-HBO Latino Pacific                 hbolatinowest
-CineMAX                            cinemax
-CineMAX Pacific                    cinemaxwest
-MoreMAX                            moremax
-MoreMAX Pacific                    moremaxwest
-ActionMAX                          actionmax
-ThrillerMAX                        thrillermax
-MovieMAX                           moviemax
-Manhattan Neighborhood Network     mnn
+CBS............................... cbs
+MeTV.............................. metv
+NBC............................... nbc
+FOX............................... fox
+RNN............................... rnn
+ABC............................... abc
+MyNetwork......................... mynet
+WLNY.............................. wlny
+CW................................ cw
+Telemundo......................... telemundo
+PBS............................... pbs
+MundoMax.......................... mundomax
+UniMas............................ unimas
+WMBC.............................. wmbc
+WZME.............................. wzme
+FiOS.............................. fios
+Cozi TV........................... cozi
+NHK World......................... nhkworld
+Heroes & Icons.................... hero
+Local Access 2.................... local2
+Local Access 3.................... local3
+Local Access 4.................... local4
+Local Access 5.................... local5
+Local Access 6.................... local6
+Local Access 7.................... local7
+Local Access 8.................... local8
+Local Access 9.................... local9
+WLIW.............................. wliw
+WNJN.............................. wnjn
+NYC Life.......................... nyclife
+WNYJ.............................. wnyj
+ION............................... ion
+Univision......................... univision
+USA............................... usa
+TNT............................... tnt
+TBS............................... tbs
+FX................................ fx
+Paramount......................... paramount
+Entertainment Studios TV.......... etstv
+Universal......................... universal
+WGN............................... wgn
+AXS............................... axs
+ESPN.............................. espn
+ESPN Goal Line.................... espngoal
+ESPNews........................... espnews
+ESPNU............................. espnu
+ESPN2............................. espn2
+ESPN SEC.......................... espnsec
+YES............................... yes
+SNY............................... sny
+MSG............................... msg
+MSG2.............................. msg2
+MSGPLUS........................... msgplus
+MSGPLUS2.......................... msgplus2
+Fox Sports 1...................... foxsports1
+Fox Sports 2...................... foxsports2
+Big Ten........................... bigten
+MLB............................... mlb
+NHL............................... nhl
+NFL............................... nfl
+NBA............................... nba
+NBC Sports........................ nbcsports
+Tennis............................ tennis
+Golf.............................. golf
+CBS Sports........................ cbssports
+BeIN.............................. bein
+One World......................... oneworld
+NESN.............................. nesn
+Cars TV........................... cars
+CNN............................... cnn
+CNN Headline News................. headlinenews
+CNBC.............................. cnbc
+MSNBC............................. msnbc
+Bloomberg TV...................... bloomberg
+CNN International................. cnnint
+CNBC World........................ cnbcworld
+BBC World......................... bbcworld
+Fusion............................ fusion
+CSPAN............................. cspan
+CSPAN2............................ cspan2
+CSPAN3............................ cspan3
+NewsMax........................... newsmax
+One America News.................. oan
+Fox Business Channel.............. foxbiz
+Fox News Channel.................. foxnews
+The Weather Channel............... weather
+Discovery......................... discovery
+National Geographic............... natgeo
+Science........................... science
+Investigation Discovery........... investigation
+American Heroes Channel........... murika
+Military History.................. military
+Viceland.......................... viceland
+History Channel................... history
+FYI............................... fyi
+Animal Planet..................... animal
+Velocity.......................... velocity
+National Geographic Wild.......... natgeowild
+Pets TV........................... pets
+Smithsonian Channel............... smithsonian
+TLC............................... tlc
+Lifetime.......................... lifetime
+Lifetime Movie Network............ lmn
+Lifetime Real Women............... lrw
+Oxygen............................ oxygen
+Oprah Winfrey Network............. own
+WE tv............................. wetv
+QVC............................... qvc
+Home Shopping Network............. hsn
+Jewelry TV........................ jewelry
+QVC +............................. qvcplus
+Home Shopping Network 2........... hsn2
+Rocks TV.......................... rocks
+Gem Shopping Network.............. gem
+evine Live........................ evine
+WOW Direct Response............... wow
+Liquidation Channel............... liquid
+Esquire TV........................ esquire
+Discovery Life.................... discoverylife
+Z Living.......................... zliving
+Cooking TV........................ cooking
+Food Network...................... food
+HGTV.............................. hgtv
+DIY............................... diy
+Destination America............... destination
+Wealth............................ wealth
+Travel Channel.................... travel
+Xtra Network...................... xtra
+My Destination.................... mydest
+Recipe TV......................... recipe
+F179.............................. f179
+SyFy.............................. syfy
+A&E............................... ae
+Crime & Investigation Network..... crime
+truTV............................. trutv
+GSN TV............................ gsn
+Bravo............................. bravo
+Justice Central................... justice
+Logo.............................. logo
+Ovation........................... ovation
+BBC America....................... bbcamerica
+Comedy Central.................... comedy
+FXX............................... fxx
+Reelz HD.......................... reelz
+Chiller........................... chiller
+POP TV............................ pop
+Comedy TV......................... comedytv
+E!................................ e
+Freeform.......................... freeform
+MTV............................... mtv
+MTV2.............................. mtv2
+MTVU.............................. mtvu
+BET Jams.......................... betjams
+MTV Hits.......................... mtvhits
+MTV Live.......................... mtvlive
+Fuse.............................. fuse
+VH1............................... vh1
+MTV Classic....................... mtvclassic
+VH1 Soul.......................... vh1soul
+Centric........................... centric
+CMT............................... cmt
+CMT Pure Country.................. cmtpure
+Great American Country............ gac
+Gospel............................ gospel
+Revolt............................ revolt
+MNet.............................. mnet
+Turner Classic Movies............. tcm
+AMC............................... amc
+Fox Movie Channel................. foxmovie
+Reelz............................. reelz
+IFC............................... ifc
+Sundance.......................... sundance
+Cinemoi........................... cinemoi
+Sony Movie Channel................ sonymovie
+Up TV............................. up
+Hallmark Movie Channel............ hallmarkmovie
+Hallmark TV....................... hallmark
+TV Land........................... tvland
+MGM............................... mgm
+Family Entertainment.............. fetv
+The Cowboy Channel................ cowboy
+HDNet............................. hdnet
+Nickelodeon....................... nick
+Nickelodeon Pacific............... nick2
+NickToons......................... nicktoons
+Teen Nick......................... teennick
+Nick Jr........................... nickjr
+Cartoon Network................... cn
+Boomerang......................... boomerang
+BET............................... bet
+TVone............................. tvone
+Disney Channel.................... disney
+Disney XD......................... disneyxd
+Disney Jr......................... disneyjr
+Discovery Family.................. discoveryfamily
+Sprout............................ sprout
+Aspire............................ aspire
+MTV Tr3s.......................... mtv3
+Galavision........................ gala
+Universo.......................... universo
+FM TV............................. fm
+CCTV.............................. cctv
+HITN TV........................... hitn
+SINO TV........................... sino
+EWTN TV........................... ewtn
+INSP TV........................... insp
+Church Channel.................... church
+BYU TV............................ byutv
+3 Angels Broadcasting Network..... 3angels
+The Word Network.................. word
+Smile of a Child Network.......... child
+Trinity Broadcasting Network...... tbn
+Telecare.......................... telecare
+SonLife Network................... sonlife
+ESPN Classic...................... espnclassic
+Fox Deportes...................... foxdeporte
+Gol TV............................ goltv
+TV Games Network.................. tvg
+TV Games Network 2................ tvg2
+Longhorn Network.................. longhorn
+Daystar TV........................ daystar
+UplifTV........................... uplift
+Universal Sports.................. universalsports
+Willow Cricket.................... cricket
+MavTV............................. mavtv
+World Fishing Network............. fishing
+Starz............................. starz
+Starz Edge........................ starzedge
+Starz Kids........................ starzkids
+Starz Comedy...................... starzcomedy
+Encore............................ encore
+Encore Classic.................... encoreclassic
+Encore Suspense................... encoresuspense
+Encore Black...................... encoreblack
+Showtime.......................... showtime
+Showtime Pacific.................. showtimewest
+Showcase.......................... showcase
+Showcase Pacific.................. showcasewest
+Showtime2......................... showtime2
+Showtime2 Pacific................. showtime2west
+Showtime Extreme.................. showextreme
+Showtime Extreme Pacific.......... showextremewest
+The Movie Channel................. tmc
+The Movie Channel Extra........... tmcextra
+Epix.............................. epix
+Epix 2............................ epix2
+HBO............................... hbo
+HBO Pacific....................... hbowest
+HBO2.............................. hbo2
+HBO2 Pacific...................... hbo2west
+HBO Signature..................... hbosig
+HBO Signature Pacific............. hbosigwest
+HBO Family........................ hbofamily
+HBO Family Pacific................ hbofamilywest
+HBO Comedy........................ hbocomedy
+HBO Comedy Pacific................ hbocomedywest
+HBO Zone.......................... hbozone
+HBO Zone Pacific.................. hbozonewest
+HBO Latino........................ hbolatino
+HBO Latino Pacific................ hbolatinowest
+CineMAX........................... cinemax
+CineMAX Pacific................... cinemaxwest
+MoreMAX........................... moremax
+MoreMAX Pacific................... moremaxwest
+ActionMAX......................... actionmax
+ThrillerMAX....................... thrillermax
+MovieMAX.......................... moviemax
+Manhattan Neighborhood Network.... mnn
 
 ~~~~~~~~~~~~~~~JAPANESE CHANNELS~~~~~~~~~~~~~~~
 (Formal Name)                     (trigger name)
-NKH                                nhk
-NHKE                               nhke
-Nihon TV                           nitere
-TBS (the japanese one)             tbsj
-Fuji TV                            fuji
-TV Asahi                           asahi
-TV Tokyo                           tokyo
-Tokyo MX1                          tokyomx1
-Tokyo MX2                          tokyomx2
-Sun TV                             suntv
-MBS                                mbs
-KBS                                kbs
-ABC (the japanese one)             abcj
-TV Osaka                           osaka
-Kansai TV                          kansai
-Yomiuri TV                         yomiuri
-NHK BS1                            nhkbs
-NHK BS Premium                     nhkpremium
-BS Nihon                           bsnitere
-BS Asahi                           bsasahi
-BS TBS                             bstbs
-BS Japan                           bsjapan
-BS Fuji                            bsfuji
-WOWOW Prime                        wowowprime
-WOWOW Live                         wowowlive
-WOWOW Cinema                       wowowcinema
-Star 1                             star1
-Star 2                             star2
-Star 3                             star3
-BS11                               bs11
-BS12                               bs12
-Green Channel                      green
-Animax                             animax
-FOX Sports Japan                   foxsportsjapan
-BS SkyPerfect                      bssukapaa
-J SPORTS 1                         jsports1
-J SPORTS 2                         jsports2
-J SPORTS 3                         jsports3
-J SPORTS 4                         jsports4
-Tsurivision                        tsurivision
-Cinefil WOWOW                      cinefilwowow
-Nihon Eiga Senmon Channel          eigasenmon
-Disney Channel Japan               disneyj
-D-Life                             dlife
-Toei Channel                       toei
-Eisei Gekijou                      eiseigekijou
-Movie Channel NECO                 neco
-The Cinema                         thecinema
-Movie Plus                         movieplus
-Sky A                              skya
-GAORA Sports                       gaora
-NTV G +                            ntvg
-Golf Network Japan                 golfj
-TAKARAZUKA LESBIAN ENTERPRISE      takarazuka
-TAKARAZUKA LESBIAN ENTERPRISE      lesbian
-Jidaigeki Senmon Channel           jidaigeki
-Family Gekijou                     familygeki
-Home Drama Channel                 homedrama
-MONDO TV                           mondo
-TBS 1                              tbs1
-TBS 2                              tbs2
-TV Asahi 1                         teleasa1
-TV Asahi 2                         teleasa2
-Nihon TV Plus                      nitereplus
-Channel Ginga                      ginga
-Fuji TV ONE                        fuji1
-Fuji TV TWO                        fuji2
-Fuji TV NEXT                       fujin
-Super! Drama TV                    superdrama
-AXN Kaigai Drama                   axndrama
-FOX (the japanese one)             foxj
-Josei Channel?LaLa TV              lala
-AXN Mystery                        axnmystery
-Space Shower TV+                   ssplus
-Space Shower TV                    spaceshower
-MTV Japan                          mtvj
-Music ON! TV                       mon
-Music Air                          musicair
-KayoPops                           kayopops
-Kids Station                       kids
-Cartoon Network (the japanese one) cnj
-Anime Theater-X                    atx
-Disney Jr. Japan                   disneyjrj
-Discovery Japan                    discoveryj
-Animal Planet Japan                animalj
-History Channel Japan              historyj
-National Geographic Japan          natgeoj
-Nihon TV NEWS24                    niterenews
-TBS Newsbird                       tbsnews
-BBC World News                     bbcworldnews
-CNNj                               cnnj
-Go Shogi Channel                   go
-Tabi Channel                       tabi
-Tetsudou Channel                   tetsudo
-FIGHTING TV                        fighting
-Music Japan TV                     musicjapan
-Pigoo                              pigoo
-NHK (backup)                       nhkbackup
+NKH............................... nhk
+NHKE.............................. nhke
+Nihon TV.......................... nitere
+TBS (the japanese one)............ tbsj
+Fuji TV........................... fuji
+TV Asahi.......................... asahi
+TV Tokyo.......................... tokyo
+Tokyo MX1......................... tokyomx1
+Tokyo MX2......................... tokyomx2
+Sun TV............................ suntv
+MBS............................... mbs
+KBS............................... kbs
+ABC (the japanese one)............ abcj
+TV Osaka.......................... osaka
+Kansai TV......................... kansai
+Yomiuri TV........................ yomiuri
+NHK BS1........................... nhkbs
+NHK BS Premium.................... nhkpremium
+BS Nihon.......................... bsnitere
+BS Asahi.......................... bsasahi
+BS TBS............................ bstbs
+BS Japan.......................... bsjapan
+BS Fuji........................... bsfuji
+WOWOW Prime....................... wowowprime
+WOWOW Live........................ wowowlive
+WOWOW Cinema...................... wowowcinema
+Star 1............................ star1
+Star 2............................ star2
+Star 3............................ star3
+BS11.............................. bs11
+BS12.............................. bs12
+Green Channel..................... green
+Animax............................ animax
+FOX Sports Japan.................. foxsportsjapan
+BS SkyPerfect..................... bssukapaa
+J SPORTS 1........................ jsports1
+J SPORTS 2........................ jsports2
+J SPORTS 3........................ jsports3
+J SPORTS 4........................ jsports4
+Tsurivision....................... tsurivision
+Cinefil WOWOW..................... cinefilwowow
+Nihon Eiga Senmon Channel......... eigasenmon
+Disney Channel Japan.............. disneyj
+D-Life............................ dlife
+Toei Channel...................... toei
+Eisei Gekijou..................... eiseigekijou
+Movie Channel NECO................ neco
+The Cinema........................ thecinema
+Movie Plus........................ movieplus
+Sky A............................. skya
+GAORA Sports...................... gaora
+NTV G +........................... ntvg
+Golf Network Japan................ golfj
+TAKARAZUKA LESBIAN ENTERPRISE..... takarazuka
+TAKARAZUKA LESBIAN ENTERPRISE..... lesbian
+Jidaigeki Senmon Channel.......... jidaigeki
+Family Gekijou.................... familygeki
+Home Drama Channel................ homedrama
+MONDO TV.......................... mondo
+TBS 1............................. tbs1
+TBS 2............................. tbs2
+TV Asahi 1........................ teleasa1
+TV Asahi 2........................ teleasa2
+Nihon TV Plus..................... nitereplus
+Channel Ginga..................... ginga
+Fuji TV ONE....................... fuji1
+Fuji TV TWO....................... fuji2
+Fuji TV NEXT...................... fujin
+Super! Drama TV................... superdrama
+AXN Kaigai Drama.................. axndrama
+FOX (the japanese one)............ foxj
+Josei Channel?LaLa TV............. lala
+AXN Mystery....................... axnmystery
+Space Shower TV+.................. ssplus
+Space Shower TV................... spaceshower
+MTV Japan......................... mtvj
+Music ON! TV...................... mon
+Music Air......................... musicair
+KayoPops.......................... kayopops
+Kids Station...................... kids
+Cartoon Network (the japanese one. cnj
+Anime Theater-X................... atx
+Disney Jr. Japan.................. disneyjrj
+Discovery Japan................... discoveryj
+Animal Planet Japan............... animalj
+History Channel Japan............. historyj
+National Geographic Japan......... natgeoj
+Nihon TV NEWS24................... niterenews
+TBS Newsbird...................... tbsnews
+BBC World News.................... bbcworldnews
+CNNj.............................. cnnj
+Go Shogi Channel.................. go
+Tabi Channel...................... tabi
+Tetsudou Channel.................. tetsudo
+FIGHTING TV....................... fighting
+Music Japan TV.................... musicjapan
+Pigoo............................. pigoo
+NHK (backup)...................... nhkbackup
 ~~~~~~~~~~~~~~~~~MEME CHANNELS~~~~~~~~~~~~~~~~~
 (Formal Name)                     (trigger name)
-Infowars                           infowars
-Multimedios TV                     multimedios
-Comet TV                           comet
-Saudi TV Channel 1                 ksa1
+Infowars.......................... infowars
+Multimedios TV.................... multimedios
+Comet TV.......................... comet
+Saudi TV Channel 1................ ksa1
