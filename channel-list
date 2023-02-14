@@ -271,7 +271,7 @@ Manhattan Neighborhood Network.... mnn
 
 ~~~~~~~~~~~~~~~JAPANESE CHANNELS~~~~~~~~~~~~~~~
 (Formal Name)                     (trigger name)
-NKH............................... nhk
+NHK............................... nhkg\
 NHKE.............................. nhke
 Nihon TV.......................... nitere
 TBS (the japanese one)............ tbsj
@@ -280,7 +280,8 @@ TV Asahi.......................... asahi
 TV Tokyo.......................... tokyo
 Tokyo MX1......................... tokyomx1
 Tokyo MX2......................... tokyomx2
-Sun TV............................ suntv
+NHK Osaka......................... nhkosaka
+NHKE Osaka........................ nhkeosaka
 MBS............................... mbs
 KBS............................... kbs
 ABC (the japanese one)............ abcj
@@ -304,19 +305,19 @@ BS11.............................. bs11
 BS12.............................. bs12
 Green Channel..................... green
 Animax............................ animax
-FOX Sports Japan.................. foxsportsjapan
-BS SkyPerfect..................... bssukapaa
 J SPORTS 1........................ jsports1
 J SPORTS 2........................ jsports2
 J SPORTS 3........................ jsports3
 J SPORTS 4........................ jsports4
 Tsurivision....................... tsurivision
-Cinefil WOWOW..................... cinefilwowow
+WOWOW Plus........................ wowowplus
 Nihon Eiga Senmon Channel......... eigasenmon
 Disney Channel Japan.............. disneyj
-D-Life............................ dlife
+Shochiku Tokyu.................... shochikutokyu
+BSjapanext........................ bsjapanext
+BS yoshimoto...................... bsyoshimoto
 Toei Channel...................... toei
-Eisei Gekijou..................... eiseigekijou
+weixing juchang................... weixingjuchang
 Movie Channel NECO................ neco
 The Cinema........................ thecinema
 Movie Plus........................ movieplus
@@ -368,7 +369,7 @@ Tetsudou Channel.................. tetsudo
 FIGHTING TV....................... fighting
 Music Japan TV.................... musicjapan
 Pigoo............................. pigoo
-NHK (backup)...................... nhkbackup
+Dance Channel..................... dance
 ~~~~~~~~~~~~~~~~~MEME CHANNELS~~~~~~~~~~~~~~~~~
 (Formal Name)                     (trigger name)
 Infowars.......................... infowars
